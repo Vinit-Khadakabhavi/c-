@@ -1,0 +1,7 @@
+#include<iostream>  // header file
+int main()
+{
+ std::cout<< "hello word in c++";  //printf = <<
+ std::cout<< std::endl;
+ return 0;
+ }
